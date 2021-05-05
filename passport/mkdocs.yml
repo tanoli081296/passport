@@ -2,3 +2,4 @@ site_name: Passport
 
 nav:
   - Changelog: changelog.md
+  - Reference: reference.md
